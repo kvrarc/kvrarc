@@ -3,7 +3,7 @@
 
 ## About Me 😁
 
-I'm Kaku, a passionate software developer based in Bangalore, India. I specialize in crafting interactive and performant mobile applications using Swift, SwiftUI, UIKit, CoreData, XCode for Apple apps; for Android I use Kotlin, Jetpack Compose, Android Studio, Material UI etc. With a blend of creativity and technical expertise, I strive to create elegant solutions that delight users and exceed expectations.
+I'm Kaku, a passionate software developer based in Guwahati, India. I specialize in crafting interactive and performant mobile applications using Swift, SwiftUI, UIKit, CoreData, XCode for Apple apps; for Android I use Kotlin, Jetpack Compose, Android Studio, Material UI etc. With a blend of creativity and technical expertise, I strive to create elegant solutions that delight users and exceed expectations.
 
 ### Projects
 
