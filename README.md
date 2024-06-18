@@ -1,16 +1,25 @@
-## Hi there 👋
+# Kaku's Portfolio
 
-<!--
-**kvrarc/kvrarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my profile 👋🏼, this repository serves as the source for my GitHub Profile.
 
-Here are some ideas to get you started:
+### About Me 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Kaku, a passionate software developer based in Bangalore, India. I specialize in crafting interactive and performant mobile applications using Swift, SwiftUI, UIKit, CoreData, XCode for Apple apps; for Android I use Kotlin, Jetpack Compose, Android Studio, Material UI etc. With a blend of creativity and technical expertise, I strive to create elegant solutions that delight users and exceed expectations.
+
+### Projects
+
+You can view my projects on my portfolio website:
+https://kvrarc.github.io/portfolio
+
+### Skills 🧑🏻‍💻
+
+Swift, SwiftUI, UIKit, CoreData, XCode for Apple apps.
+Kotlin, Jetpack Compose, Android Studio, Material UI for Android apps
+
+### Contact Me 🤙🏼
+
+If you're interested in collaborating on a project or have any questions, feel free to reach out to me:
+
+Email: baruahkaku007@gmail.com
+LinkedIn: https://linkedin.com/in/itsjustoku
+Twitter: https://x.com/itsjustoku?s=09
