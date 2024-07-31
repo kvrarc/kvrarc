@@ -1,13 +1,12 @@
-# <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66a93148e886d0166c63049d?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/wide/66a93148e886d0166c63049d?variant=dark&roadmaps=ios)](https://roadmap.sh)
 
 ## About
 
-I'm Kaku, a passionate software developer based in Guwahati, India. I specialize in crafting interactive and performant mobile applications using Swift, SwiftUI, UIKit, CoreData, XCode for Apple apps; for Android I use Kotlin, Jetpack Compose, Android Studio, Material UI etc. With a blend of creativity and technical expertise, I strive to create elegant solutions that delight users and exceed expectations.
+I'm Kaku, a passionate iOS developer based in Guwahati, India. I specialize in crafting interactive and performant mobile applications using Swift, SwiftUI, UIKit, SwiftData, CoreData, XCode, etc for my apps. With a blend of creativity and technical expertise, I strive to create elegant solutions that delight users and exceed expectations.
 
 ### Skills
 
-Swift, SwiftUI, UIKit, CoreData, XCode for Apple apps.
-Kotlin, Jetpack Compose, Android Studio, Material UI for Android apps
+Swift, SwiftUI, UIKit, SwiftData, CoreData, XCode, etc.
 
 ### Contact
 
