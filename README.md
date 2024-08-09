@@ -1,4 +1,4 @@
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66a93148e886d0166c63049d?variant=dark&roadmaps=ios" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/66a93148e886d0166c63049d?variant=dark&roadmaps=ios)](https://roadmap.sh)
 
 ## About
 
