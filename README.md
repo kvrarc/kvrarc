@@ -1,5 +1,3 @@
-[![roadmap.sh](https://roadmap.sh/card/tall/66a93148e886d0166c63049d?variant=dark&roadmaps=ios)](https://roadmap.sh)
-
 ## About
 
 I'm Kaku, a passionate iOS developer based in Guwahati, India. I specialize in crafting interactive and performant mobile applications using Swift, SwiftUI, UIKit, SwiftData, CoreData, XCode, etc for my apps. With a blend of creativity and technical expertise, I strive to create elegant solutions that delight users and exceed expectations.
